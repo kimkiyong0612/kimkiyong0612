@@ -1,6 +1,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkiyong0612&show_icons=true&theme=dark)
 
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimkiyong0612&repo=megumiXmas)](https://github.com/kimkiyong0612/megumiXmas)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimkiyong0612&repo=chatbot)](https://github.com/kimkiyong0612/chatbot)
@@ -8,7 +9,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimkiyong0612&repo=nuxtcontentful)](https://github.com/kimkiyong0612/nuxtcontentful)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimkiyong0612&repo=Linebot_Fitness)](https://github.com/kimkiyong0612/Linebot_Fitness)
-
+-->
 
 
 
