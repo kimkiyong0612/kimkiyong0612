@@ -11,8 +11,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimkiyong0612&repo=Linebot_Fitness)](https://github.com/kimkiyong0612/Linebot_Fitness)
 -->
 
-
-
+Generated via github-readme-stats
 
 <!--
 **kimkiyong0612/kimkiyong0612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
